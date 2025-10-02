@@ -3,7 +3,7 @@
 
 <h2>💫 About Me</h2>
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+<img src="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTk0MzY5MTksIm5iZiI6MTc1OTQzNjYxOSwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEwMDIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMDAyVDIwMjMzOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWNmZWU0MjdlOTQxMDc1MjEyNzVmOGNmMzE0Zjg0ZTI2ODVkOTAwNGM3ZjJiZTAwN2VhZjFlYmE5NjhhZmJhMTcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.JM-JEPlCL1ZnQURCXPqmobbroVfWnAMUPOlYoL9Iy10" width="500">
 <!--<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <div align="left">-->
 
@@ -18,8 +18,8 @@
 
 <div>
    <a href="https://github.com/igor-dev7">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igor-dev7&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igor-dev7&layout=compact&langs_count=6&theme=midnight-purple"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igor-dev7&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igor-dev7&layout=compact&langs_count=6&theme=gotham"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -29,14 +29,5 @@
 [![My Skills](https://skillicons.dev/icons?i=ts,nextjs,prisma,postgres,react,tailwind,figma,css,html,js,python,photoshop,unreal,blender,notion,wordpress,supabase)](https://skillicons.dev)
 </div>
 <br>
-<div> 
-  <a href="https://instagram.com/iam.igoor" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=black&color=black" target="_blank"></a>
-  <a href = "mailto: "><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&labelColor=red&color=red" target="_blank"></a>
-  <a href="https://linkedin.com/in/igor-moreira-777i" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iguin777i/iguin777i/output/github-contribution-grid-snake.svg">
-  
-</picture>
+
