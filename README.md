@@ -17,7 +17,7 @@
 
 <div>
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=igordev777i&theme=tokyonight&border_radius=8.2&locale=pt_BR&short_numbers=true" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=igor-dev7&theme=tokyonight&border_radius=8.2&locale=pt_BR&short_numbers=true" alt="GitHub Streak" />
   </a>
 </div>
 
