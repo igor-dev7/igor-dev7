@@ -11,7 +11,7 @@
 🌱 I'm currently working and developing my programming skills.</br>
 🔭 Student at Fatec.</br>
  💬 Ask me about Games and Design.</br>
- ⚡ Interested in UI-UX Design, Full-Stack, Artificial Intelligence, 3D Animation.</br>
+ ⚡ Interested in UI-UX Design, Full-Stack, Artificial Intelligence, 3D Animation</br>
  ✨ I only like perfection.</h4> 
  <br>
 
